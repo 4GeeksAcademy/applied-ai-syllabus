@@ -6,3 +6,6 @@
 - [ ] For their stuff - This deeply related with the following question
 - [ ] **What are they interested in learning?**
 - [ ] **Save time when writting reports and taking notes from patients.**
+
+**We aim our developers to work together with the Healcare professionals**
+
