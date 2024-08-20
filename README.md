@@ -48,3 +48,4 @@ Course Schedule:
 ### `Week 5 and 6`: Starting final project 
 
 - The students will choose a project based in their job roles 
+Se sugiere no utilizar abusivamente la IA para resolver problemas,ya que podria desfavorecer a el aprendizaje de los estudiantes 
